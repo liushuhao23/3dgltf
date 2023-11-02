@@ -1,8 +1,19 @@
+<!--
+ * @Description: description
+ * @Version: 2.0
+ * @Autor: liushuhao
+ * @Date: 2023-11-02 09:09:56
+ * @LastEditors: liushuhao
+ * @LastEditTime: 2023-11-02 14:22:50
+-->
 <template>
   <MapContainer></MapContainer>
+  <!-- <MapContainerCopy></MapContainerCopy> -->
 </template>
 <script lang="ts" setup>
 import MapContainer from './views/MapContainer.vue';
+import MapContainerCopy from './views/MapContainerCopy.vue';
+
 </script>
 
 <style lang="less" >
